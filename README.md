@@ -12,7 +12,6 @@ GROUP MEMBERS
 
 **Question 1**
 Using a programming language of your choice, in groups, write code to represent each of the data structure classification and types. 
-GitHub: https://github.com/etonotieno/BIT2203-DSA 
 Data structures are generally classified into two main groups, primitive and non-primitive. Non-primitive structures then branch into linear and non-linear. 
 
 1.	Primitive Data Structures 
